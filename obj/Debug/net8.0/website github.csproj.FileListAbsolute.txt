@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\website github\bin\Debug\net8.0\website github.exe
+C:\Users\ASUS\OneDrive\Desktop\website github\bin\Debug\net8.0\website github.deps.json
+C:\Users\ASUS\OneDrive\Desktop\website github\bin\Debug\net8.0\website github.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\website github\bin\Debug\net8.0\website github.dll
+C:\Users\ASUS\OneDrive\Desktop\website github\bin\Debug\net8.0\website github.pdb
+C:\Users\ASUS\OneDrive\Desktop\website github\obj\Debug\net8.0\website github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\website github\obj\Debug\net8.0\website github.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\website github\obj\Debug\net8.0\website github.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\website github\obj\Debug\net8.0\website github.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\website github\obj\Debug\net8.0\website github.dll
+C:\Users\ASUS\OneDrive\Desktop\website github\obj\Debug\net8.0\refint\website github.dll
+C:\Users\ASUS\OneDrive\Desktop\website github\obj\Debug\net8.0\website github.pdb
+C:\Users\ASUS\OneDrive\Desktop\website github\obj\Debug\net8.0\website github.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\website github\obj\Debug\net8.0\ref\website github.dll
